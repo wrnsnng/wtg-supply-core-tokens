@@ -1,0 +1,140 @@
+{
+  "Web": {
+    "lrg": {
+      "H1": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.7}",
+          "fontSize": "{fontSizes.800}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSizes.700}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{fontSizes.600}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H4": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{fontSizes.500}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H5": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSizes.400}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H6": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSizes.300}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      }
+    },
+    "sml": {
+      "H1": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.7} * 2",
+          "fontSize": "{fontSizes.800} * 2",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.6} * 2",
+          "fontSize": "{fontSizes.700} * 2",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.5} * 2",
+          "fontSize": "{fontSizes.600} * 2",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H4": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.5} * 2",
+          "fontSize": "{fontSizes.500} * 2",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H5": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.4} * 2",
+          "fontSize": "{fontSizes.400} * 2",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "H6": {
+        "value": {
+          "fontFamily": "{fontFamilies.Primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "{lineHeights.3} * 2",
+          "fontSize": "{fontSizes.300} * 2",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "0"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
