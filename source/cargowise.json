@@ -1569,43 +1569,55 @@
     },
     "size": {
       "0": {
-        "value": "0px",
+        "value": "{spacing.0}",
         "type": "sizing"
       },
       "100": {
-        "value": "4px",
+        "value": "{spacing.100}",
         "type": "sizing"
       },
       "200": {
-        "value": "8px",
+        "value": "{spacing.200}",
         "type": "sizing"
       },
       "300": {
-        "value": "14px",
+        "value": "{spacing.300}",
         "type": "sizing"
       },
       "400": {
-        "value": "16px",
+        "value": "{spacing.400}",
         "type": "sizing"
       },
       "500": {
-        "value": "20px",
+        "value": "{spacing.500}",
         "type": "sizing"
       },
       "600": {
-        "value": "24px",
+        "value": "{spacing.600}",
         "type": "sizing"
       },
       "700": {
-        "value": "32px",
+        "value": "{spacing.700}",
         "type": "sizing"
       },
       "800": {
-        "value": "48px",
+        "value": "{spacing.800}",
         "type": "sizing"
       },
       "900": {
-        "value": "64px",
+        "value": "{spacing.900}",
+        "type": "sizing"
+      },
+      "1000": {
+        "value": "{spacing.1000}",
+        "type": "sizing"
+      },
+      "1100": {
+        "value": "{spacing.1100}",
+        "type": "sizing"
+      },
+      "1200": {
+        "value": "{spacing.1200}",
         "type": "sizing"
       }
     }
