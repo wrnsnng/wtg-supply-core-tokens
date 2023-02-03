@@ -903,7 +903,7 @@
         "type": "color"
       },
       "Border-Weak": {
-        "value": "{Foundation.Neutral.600}",
+        "value": "{Foundation.Neutral.300}",
         "type": "color"
       }
     },
@@ -977,7 +977,7 @@
         "type": "color"
       },
       "Content-Inverse": {
-        "value": "{Foundation.Brand.700}",
+        "value": "{Foundation.Brand.100}",
         "type": "color"
       },
       "Content-Inverse-Hover": {
