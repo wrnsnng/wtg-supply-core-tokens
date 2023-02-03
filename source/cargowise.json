@@ -815,7 +815,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Neutral.600}",
+        "value": "{Foundation.Neutral.500}",
         "type": "color"
       },
       "Content-Weak": {
@@ -977,7 +977,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Brand.600}",
+        "value": "{Foundation.Brand.500}",
         "type": "color"
       },
       "Content-Weak": {
@@ -1139,7 +1139,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Accent.600}",
+        "value": "{Foundation.Accent.500}",
         "type": "color"
       },
       "Content-Weak": {
@@ -1301,7 +1301,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Info.600}",
+        "value": "{Foundation.Info.500}",
         "type": "color"
       },
       "Content-Weak": {
@@ -1463,7 +1463,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Success.600}",
+        "value": "{Foundation.Success.500}",
         "type": "color"
       },
       "Content-Weak": {
@@ -1787,7 +1787,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Critical.400}",
+        "value": "{Foundation.Critical.500}",
         "type": "color"
       },
       "Content-Weak": {
@@ -1883,7 +1883,7 @@
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Critical.400}",
+        "value": "{Foundation.Critical.500}",
         "type": "color"
       },
       "Border-Weak": {
