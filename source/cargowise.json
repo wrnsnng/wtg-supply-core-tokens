@@ -783,23 +783,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Neutral.400}",
-        "type": "color"
-      },
-      "Background-Weak": {
-        "value": "{Foundation.Neutral.400}",
-        "type": "color"
-      },
-      "Background-Weak-Hover": {
         "value": "{Foundation.Neutral.300}",
         "type": "color"
       },
+      "Background-Weak": {
+        "value": "{Foundation.Neutral.200}",
+        "type": "color"
+      },
+      "Background-Weak-Hover": {
+        "value": "{Foundation.Neutral.100}",
+        "type": "color"
+      },
       "Background-Weak-Active": {
-        "value": "{Foundation.Neutral.500}",
+        "value": "{Foundation.Neutral.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Neutral.200}",
+        "value": "{Foundation.Neutral.100}",
         "type": "color"
       },
       "Content": {
@@ -945,23 +945,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Brand.400}",
-        "type": "color"
-      },
-      "Background-Weak": {
-        "value": "{Foundation.Brand.400}",
-        "type": "color"
-      },
-      "Background-Weak-Hover": {
         "value": "{Foundation.Brand.300}",
         "type": "color"
       },
+      "Background-Weak": {
+        "value": "{Foundation.Brand.200}",
+        "type": "color"
+      },
+      "Background-Weak-Hover": {
+        "value": "{Foundation.Brand.100}",
+        "type": "color"
+      },
       "Background-Weak-Active": {
-        "value": "{Foundation.Brand.500}",
+        "value": "{Foundation.Brand.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Brand.200}",
+        "value": "{Foundation.Brand.100}",
         "type": "color"
       },
       "Content": {
@@ -1107,23 +1107,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Accent.400}",
-        "type": "color"
-      },
-      "Background-Weak": {
-        "value": "{Foundation.Accent.400}",
-        "type": "color"
-      },
-      "Background-Weak-Hover": {
         "value": "{Foundation.Accent.300}",
         "type": "color"
       },
+      "Background-Weak": {
+        "value": "{Foundation.Accent.200}",
+        "type": "color"
+      },
+      "Background-Weak-Hover": {
+        "value": "{Foundation.Accent.100}",
+        "type": "color"
+      },
       "Background-Weak-Active": {
-        "value": "{Foundation.Accent.500}",
+        "value": "{Foundation.Accent.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Accent.200}",
+        "value": "{Foundation.Accent.100}",
         "type": "color"
       },
       "Content": {
@@ -1269,23 +1269,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Info.400}",
-        "type": "color"
-      },
-      "Background-Weak": {
-        "value": "{Foundation.Info.400}",
-        "type": "color"
-      },
-      "Background-Weak-Hover": {
         "value": "{Foundation.Info.300}",
         "type": "color"
       },
+      "Background-Weak": {
+        "value": "{Foundation.Info.200}",
+        "type": "color"
+      },
+      "Background-Weak-Hover": {
+        "value": "{Foundation.Info.100}",
+        "type": "color"
+      },
       "Background-Weak-Active": {
-        "value": "{Foundation.Info.500}",
+        "value": "{Foundation.Info.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Info.200}",
+        "value": "{Foundation.Info.100}",
         "type": "color"
       },
       "Content": {
@@ -1431,23 +1431,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Success.400}",
+        "value": "{Foundation.Success.300}",
         "type": "color"
       },
       "Background-Weak": {
-        "value": "{Foundation.Success.400}",
+        "value": "{Foundation.Success.200}",
         "type": "color"
       },
       "Background-Weak-Hover": {
-        "value": "{Foundation.Success.300}",
+        "value": "{Foundation.Success.100}",
         "type": "color"
       },
       "Background-Weak-Active": {
-        "value": "{Foundation.Success.500}",
+        "value": "{Foundation.Success.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Success.300}",
+        "value": "{Foundation.Success.100}",
         "type": "color"
       },
       "Content": {
@@ -1593,23 +1593,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Warning.400}",
-        "type": "color"
-      },
-      "Background-Weak": {
         "value": "{Foundation.Warning.300}",
         "type": "color"
       },
-      "Background-Weak-Hover": {
+      "Background-Weak": {
         "value": "{Foundation.Warning.200}",
+        "type": "color"
+      },
+      "Background-Weak-Hover": {
+        "value": "{Foundation.Warning.100}",
         "type": "color"
       },
       "Background-Weak-Active": {
-        "value": "{Foundation.Warning.400}",
+        "value": "{Foundation.Warning.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Warning.200}",
+        "value": "{Foundation.Warning.100}",
         "type": "color"
       },
       "Content": {
@@ -1755,23 +1755,23 @@
         "type": "color"
       },
       "Background-Disabled": {
-        "value": "{Foundation.Critical.400}",
-        "type": "color"
-      },
-      "Background-Weak": {
         "value": "{Foundation.Critical.300}",
         "type": "color"
       },
-      "Background-Weak-Hover": {
+      "Background-Weak": {
         "value": "{Foundation.Critical.200}",
+        "type": "color"
+      },
+      "Background-Weak-Hover": {
+        "value": "{Foundation.Critical.100}",
         "type": "color"
       },
       "Background-Weak-Active": {
-        "value": "{Foundation.Critical.400}",
+        "value": "{Foundation.Critical.300}",
         "type": "color"
       },
       "Background-Weak-Disabled": {
-        "value": "{Foundation.Critical.200}",
+        "value": "{Foundation.Critical.100}",
         "type": "color"
       },
       "Content": {
