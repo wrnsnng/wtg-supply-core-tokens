@@ -1463,39 +1463,39 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Success.500}",
+        "value": "{Foundation.Success.400}",
         "type": "color"
       },
       "Content-Weak": {
-        "value": "{Foundation.Success.500}",
+        "value": "{Foundation.Success.400}",
         "type": "color"
       },
       "Content-Weak-Hover": {
-        "value": "{Foundation.Success.400}",
+        "value": "{Foundation.Success.300}",
         "type": "color"
       },
       "Content-Weak-Active": {
-        "value": "{Foundation.Success.600}",
-        "type": "color"
-      },
-      "Content-Weak-Disabled": {
-        "value": "{Foundation.Success.400}",
-        "type": "color"
-      },
-      "Content-Weaker": {
-        "value": "{Foundation.Success.400}",
-        "type": "color"
-      },
-      "Content-Weaker-Hover": {
-        "value": "{Foundation.Success.300}",
-        "type": "color"
-      },
-      "Content-Weaker-Active": {
         "value": "{Foundation.Success.500}",
         "type": "color"
       },
-      "Content-Weaker-Disabled": {
+      "Content-Weak-Disabled": {
         "value": "{Foundation.Success.300}",
+        "type": "color"
+      },
+      "Content-Weaker": {
+        "value": "{Foundation.Success.300}",
+        "type": "color"
+      },
+      "Content-Weaker-Hover": {
+        "value": "{Foundation.Success.200}",
+        "type": "color"
+      },
+      "Content-Weaker-Active": {
+        "value": "{Foundation.Success.400}",
+        "type": "color"
+      },
+      "Content-Weaker-Disabled": {
+        "value": "{Foundation.Success.200}",
         "type": "color"
       },
       "Content-Inverse": {
