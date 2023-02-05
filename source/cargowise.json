@@ -1787,7 +1787,7 @@
         "type": "color"
       },
       "Content-Disabled": {
-        "value": "{Foundation.Critical.500}",
+        "value": "{Foundation.Critical.400}",
         "type": "color"
       },
       "Content-Weak": {
