@@ -899,19 +899,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Neutral.700}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Neutral.600}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Neutral.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Neutral.800}",
+        "value": "{Foundation.Neutral.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Neutral.400}",
+        "value": "{Foundation.Neutral.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1061,19 +1061,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Brand.700}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Brand.600}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Brand.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Brand.900}",
+        "value": "{Foundation.Brand.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Brand.400}",
+        "value": "{Foundation.Brand.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1223,19 +1223,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Accent.700}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Accent.600}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Accent.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Accent.900}",
+        "value": "{Foundation.Accent.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Accent.400}",
+        "value": "{Foundation.Accent.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1385,19 +1385,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Info.700}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Info.600}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Info.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Info.800}",
+        "value": "{Foundation.Info.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Info.400}",
+        "value": "{Foundation.Info.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1559,7 +1559,7 @@
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Success.400}",
+        "value": "{Foundation.Success.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1721,7 +1721,7 @@
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Warning.400}",
+        "value": "{Foundation.Warning.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1871,11 +1871,11 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Critical.600}",
+        "value": "{Foundation.Critical.500}",
         "type": "color"
       },
       "Border-Hover": {
-        "value": "{Foundation.Critical.500}",
+        "value": "{Foundation.Critical.600}",
         "type": "color"
       },
       "Border-Active": {
@@ -1883,7 +1883,7 @@
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Critical.500}",
+        "value": "{Foundation.Critical.300}",
         "type": "color"
       },
       "Border-Weak": {
