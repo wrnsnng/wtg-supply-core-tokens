@@ -1061,19 +1061,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Brand.300}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Brand.400}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Brand.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Brand.600}",
+        "value": "{Foundation.Brand.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Brand.200}",
+        "value": "{Foundation.Brand.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1223,19 +1223,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Accent.300}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Accent.400}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Accent.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Accent.600}",
+        "value": "{Foundation.Accent.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Accent.200}",
+        "value": "{Foundation.Accent.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1385,19 +1385,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Info.300}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Info.400}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Info.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Info.600}",
+        "value": "{Foundation.Info.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Info.200}",
+        "value": "{Foundation.Info.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1547,19 +1547,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Success.300}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Success.400}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Success.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Success.600}",
+        "value": "{Foundation.Success.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Success.200}",
+        "value": "{Foundation.Success.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1709,19 +1709,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Warning.300}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Warning.400}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Warning.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Warning.600}",
+        "value": "{Foundation.Warning.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Warning.200}",
+        "value": "{Foundation.Warning.300}",
         "type": "color"
       },
       "Border-Weak": {
@@ -1871,19 +1871,19 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Critical.300}",
-        "type": "color"
-      },
-      "Border-Hover": {
         "value": "{Foundation.Critical.400}",
         "type": "color"
       },
+      "Border-Hover": {
+        "value": "{Foundation.Critical.500}",
+        "type": "color"
+      },
       "Border-Active": {
-        "value": "{Foundation.Critical.600}",
+        "value": "{Foundation.Critical.700}",
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Critical.200}",
+        "value": "{Foundation.Critical.300}",
         "type": "color"
       },
       "Border-Weak": {
