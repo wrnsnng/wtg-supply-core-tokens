@@ -899,11 +899,11 @@
         "type": "color"
       },
       "Border": {
-        "value": "{Foundation.Neutral.300}",
+        "value": "{Foundation.Neutral.400}",
         "type": "color"
       },
       "Border-Hover": {
-        "value": "{Foundation.Neutral.400}",
+        "value": "{Foundation.Neutral.500}",
         "type": "color"
       },
       "Border-Active": {
@@ -911,7 +911,7 @@
         "type": "color"
       },
       "Border-Disabled": {
-        "value": "{Foundation.Neutral.200}",
+        "value": "{Foundation.Neutral.300}",
         "type": "color"
       },
       "Border-Weak": {
