@@ -915,7 +915,7 @@
         "type": "color"
       },
       "Border-Weak": {
-        "value": "{Foundation.Neutral.200}",
+        "value": "rgba({Foundation.Neutral.1000}, 0.12)",
         "type": "color"
       },
       "Border-Weak-Hover": {
