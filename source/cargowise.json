@@ -867,7 +867,7 @@
         "type": "color"
       },
       "Content-Weak-Hover": {
-        "value": "{Foundation.Neutral.300}",
+        "value": "{Foundation.Neutral.400}",
         "type": "color"
       },
       "Content-Weak-Active": {
@@ -875,7 +875,7 @@
         "type": "color"
       },
       "Content-Weak-Disabled": {
-        "value": "{Foundation.Neutral.300}",
+        "value": "{Foundation.Neutral.400}",
         "type": "color"
       },
       "Content-Weaker": {
