@@ -743,6 +743,17 @@
       },
       "type": "typography"
     },
+    "Placeholder-Small": {
+      "value": {
+        "fontFamily": "{fontFamilies.Primary}",
+        "fontWeight": "{fontWeights.400}",
+        "lineHeight": "{lineHeights.1}",
+        "fontSize": "{fontSizes.100}",
+        "letterSpacing": "{letterSpacing.0}",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
     "Placeholder-Numeric": {
       "value": {
         "fontFamily": "{fontFamilies.Mono}",
