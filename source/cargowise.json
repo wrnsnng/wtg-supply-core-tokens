@@ -765,6 +765,17 @@
       },
       "type": "typography"
     },
+    "Placeholder-Numeric-Small": {
+      "value": {
+        "fontFamily": "{fontFamilies.Mono}",
+        "fontWeight": "{fontWeights.400}",
+        "lineHeight": "{lineHeights.1}",
+        "fontSize": "{fontSizes.100}",
+        "letterSpacing": "{letterSpacing.0}",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
     "lineHeights": {
       "1": {
         "value": "16px",
