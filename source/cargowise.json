@@ -1,7 +1,7 @@
 {
   "foundations": {
     "foundation": {
-      "Neutral": {
+      "neutral": {
         "100": {
           "value": "#F8F8F7",
           "type": "color"
@@ -127,7 +127,7 @@
           "type": "color"
         }
       },
-      "Success": {
+      "success": {
         "100": {
           "value": "#F1FAF3",
           "type": "color"
@@ -941,7 +941,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.neutral.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -1021,7 +1021,7 @@
         "type": "color"
       }
     },
-    "Primary": {
+    "primary": {
       "bg": {
         "value": "{foundation.brand.700}",
         "type": "color"
@@ -1103,7 +1103,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.brand.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -1265,7 +1265,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.accent.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -1427,7 +1427,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.info.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -1589,7 +1589,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.success.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -1751,7 +1751,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.warning.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -1913,7 +1913,7 @@
         "type": "color"
       },
       "txt-inverse": {
-        "value": "{bg.default}",
+        "value": "{foundation.critical.100}",
         "type": "color"
       },
       "txt-inverse-hover": {
@@ -2545,7 +2545,7 @@
         "critical.border-Faint-disabled": "S:427754c06cba21c48002099f3e2f84d3a0e302dc,"
       }
     }
-    ],
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "foundations",
