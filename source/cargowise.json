@@ -831,7 +831,7 @@
         "type": "color"
       },
       "bg-disabled": {
-        "value": "{foundation.neutral.500}",
+        "value": "{foundation.neutral.200}",
         "type": "color"
       },
       "bg-weak": {
@@ -1025,7 +1025,7 @@
         "type": "color"
       },
       "bg-disabled": {
-        "value": "{foundation.brand.500}",
+        "value": "{foundation.brand.200}",
         "type": "color"
       },
       "bg-weak": {
@@ -1219,7 +1219,7 @@
         "type": "color"
       },
       "bg-disabled": {
-        "value": "{foundation.info.500}",
+        "value": "{foundation.info.200}",
         "type": "color"
       },
       "bg-weak": {
@@ -1413,7 +1413,7 @@
         "type": "color"
       },
       "bg-disabled": {
-        "value": "{foundation.success.500}",
+        "value": "{foundation.success.200}",
         "type": "color"
       },
       "bg-weak": {
@@ -1607,7 +1607,7 @@
         "type": "color"
       },
       "bg-disabled": {
-        "value": "{foundation.warning.500}",
+        "value": "{foundation.warning.200}",
         "type": "color"
       },
       "bg-weak": {
@@ -1801,7 +1801,7 @@
         "type": "color"
       },
       "bg-disabled": {
-        "value": "{foundation.critical.500}",
+        "value": "{foundation.critical.200}",
         "type": "color"
       },
       "bg-weak": {
