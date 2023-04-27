@@ -785,7 +785,7 @@
   },
   "coloursLight": {
     "global-canvas": {
-      "inv": {
+      "default-inv": {
         "value": "{foundation.neutral.1000}",
         "type": "color"
       },
@@ -812,7 +812,7 @@
           }
         }
       },
-      "inverse": {
+      "default-inv": {
         "value": "{foundation.neutral.1000}",
         "type": "color"
       }
