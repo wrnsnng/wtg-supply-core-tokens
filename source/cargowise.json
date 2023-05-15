@@ -1021,7 +1021,7 @@
         "type": "color"
       },
       "bg-active": {
-        "value": "{foundation.brand.900}",
+        "value": "{foundation.brand.800}",
         "type": "color"
       },
       "bg-disabled": {
@@ -1207,15 +1207,15 @@
     },
     "info": {
       "bg": {
-        "value": "{foundation.info.700}",
-        "type": "color"
-      },
-      "bg-hover": {
         "value": "{foundation.info.600}",
         "type": "color"
       },
+      "bg-hover": {
+        "value": "{foundation.info.700}",
+        "type": "color"
+      },
       "bg-active": {
-        "value": "{foundation.info.900}",
+        "value": "{foundation.info.800}",
         "type": "color"
       },
       "bg-disabled": {
@@ -1401,15 +1401,15 @@
     },
     "success": {
       "bg": {
-        "value": "{foundation.success.700}",
-        "type": "color"
-      },
-      "bg-hover": {
         "value": "{foundation.success.600}",
         "type": "color"
       },
+      "bg-hover": {
+        "value": "{foundation.success.700}",
+        "type": "color"
+      },
       "bg-active": {
-        "value": "{foundation.success.900}",
+        "value": "{foundation.success.800}",
         "type": "color"
       },
       "bg-disabled": {
@@ -1595,15 +1595,15 @@
     },
     "warning": {
       "bg": {
-        "value": "{foundation.warning.700}",
-        "type": "color"
-      },
-      "bg-hover": {
         "value": "{foundation.warning.600}",
         "type": "color"
       },
+      "bg-hover": {
+        "value": "{foundation.warning.700}",
+        "type": "color"
+      },
       "bg-active": {
-        "value": "{foundation.warning.900}",
+        "value": "{foundation.warning.800}",
         "type": "color"
       },
       "bg-disabled": {
@@ -1789,15 +1789,15 @@
     },
     "critical": {
       "bg": {
-        "value": "{foundation.critical.700}",
-        "type": "color"
-      },
-      "bg-hover": {
         "value": "{foundation.critical.600}",
         "type": "color"
       },
+      "bg-hover": {
+        "value": "{foundation.critical.700}",
+        "type": "color"
+      },
       "bg-active": {
-        "value": "{foundation.critical.900}",
+        "value": "{foundation.critical.800}",
         "type": "color"
       },
       "bg-disabled": {
