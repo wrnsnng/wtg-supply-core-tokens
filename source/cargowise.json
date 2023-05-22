@@ -995,19 +995,19 @@
         "type": "color"
       },
       "border-weak": {
-        "value": "rgba({neutral.border}, 0.4)",
+        "value": "rgba({neutral.border}, 0.3)",
         "type": "color"
       },
       "border-weak-hover": {
-        "value": "rgba({neutral.border-hover}, 0.4)",
+        "value": "rgba({neutral.border-hover}, 0.3)",
         "type": "color"
       },
       "border-weak-active": {
-        "value": "rgba({neutral.border-active}, 0.4)",
+        "value": "rgba({neutral.border-active}, 0.3)",
         "type": "color"
       },
       "border-weak-disabled": {
-        "value": "rgba({neutral.border-disabled}, 0.4)",
+        "value": "rgba({neutral.border-disabled}, 0.3)",
         "type": "color"
       }
     },
@@ -1189,19 +1189,19 @@
         "type": "color"
       },
       "border-weak": {
-        "value": "rgba({primary.border}, 0.4)",
+        "value": "rgba({primary.border}, 0.3)",
         "type": "color"
       },
       "border-weak-hover": {
-        "value": "rgba({primary.border-hover}, 0.4)",
+        "value": "rgba({primary.border-hover}, 0.3)",
         "type": "color"
       },
       "border-weak-active": {
-        "value": "rgba({primary.border-active}, 0.4)",
+        "value": "rgba({primary.border-active}, 0.3)",
         "type": "color"
       },
       "border-weak-disabled": {
-        "value": "rgba({primary.border-disabled}, 0.4)",
+        "value": "rgba({primary.border-disabled}, 0.3)",
         "type": "color"
       }
     },
@@ -1387,15 +1387,15 @@
         "type": "color"
       },
       "border-weak-hover": {
-        "value": "rgba({info.border-hover}, 0.4)",
+        "value": "rgba({info.border-hover}, 0.3)",
         "type": "color"
       },
       "border-weak-active": {
-        "value": "rgba({info.border-active}, 0.4)",
+        "value": "rgba({info.border-active}, 0.3)",
         "type": "color"
       },
       "border-weak-disabled": {
-        "value": "rgba({info.border-disabled}, 0.4)",
+        "value": "rgba({info.border-disabled}, 0.3)",
         "type": "color"
       }
     },
@@ -1577,19 +1577,19 @@
         "type": "color"
       },
       "border-weak": {
-        "value": "rgba({success.border}, 0.4)",
+        "value": "rgba({success.border}, 0.3)",
         "type": "color"
       },
       "border-weak-hover": {
-        "value": "rgba({success.border-hover}, 0.4)",
+        "value": "rgba({success.border-hover}, 0.3)",
         "type": "color"
       },
       "border-weak-active": {
-        "value": "rgba({success.border-active}, 0.4)",
+        "value": "rgba({success.border-active}, 0.3)",
         "type": "color"
       },
       "border-weak-disabled": {
-        "value": "rgba({success.border-disabled}, 0.4)",
+        "value": "rgba({success.border-disabled}, 0.3)",
         "type": "color"
       }
     },
@@ -1771,19 +1771,19 @@
         "type": "color"
       },
       "border-weak": {
-        "value": "rgba({warning.border}, 0.4)",
+        "value": "rgba({warning.border}, 0.3)",
         "type": "color"
       },
       "border-weak-hover": {
-        "value": "rgba({warning.border-hover}, 0.4)",
+        "value": "rgba({warning.border-hover}, 0.3)",
         "type": "color"
       },
       "border-weak-active": {
-        "value": "rgba({warning.border-active}, 0.4)",
+        "value": "rgba({warning.border-active}, 0.3)",
         "type": "color"
       },
       "border-weak-disabled": {
-        "value": "rgba({warning.border-disabled}, 0.4)",
+        "value": "rgba({warning.border-disabled}, 0.3)",
         "type": "color"
       }
     },
@@ -1969,15 +1969,15 @@
         "type": "color"
       },
       "border-weak-hover": {
-        "value": "rgba({critical.border-hover}, 0.4)",
+        "value": "rgba({critical.border-hover}, 0.3)",
         "type": "color"
       },
       "border-weak-active": {
-        "value": "rgba({critical.border-active}, 0.4)",
+        "value": "rgba({critical.border-active}, 0.3)",
         "type": "color"
       },
       "border-weak-disabled": {
-        "value": "rgba({critical.border-disabled}, 0.4)",
+        "value": "rgba({critical.border-disabled}, 0.3)",
         "type": "color"
       }
     },
