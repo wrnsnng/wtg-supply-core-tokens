@@ -667,7 +667,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -678,7 +678,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -689,7 +689,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -700,7 +700,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "underline"
         },
@@ -711,7 +711,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -722,7 +722,7 @@
           "fontFamily": "{fontFamilies.Mono}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -733,7 +733,7 @@
           "fontFamily": "{fontFamilies.Mono}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -744,7 +744,7 @@
           "fontFamily": "{fontFamilies.Mono}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.2}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "underline"
         },
@@ -777,7 +777,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.1}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -787,10 +787,10 @@
         "value": {
           "fontFamily": "{fontFamilies.Mono}",
           "fontWeight": "{fontWeights.400}",
-          "lineHeight": "{lineHeights.1}*1.5",
-          "fontSize": "{fontSizes.200}*1.5",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
-          "textDecoration": "none"
+          "textDecoration": "none",
+          "lineHeight": "{lineHeights.1}*1.5"
         },
         "type": "typography"
       },
