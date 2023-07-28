@@ -408,7 +408,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.4}",
-          "fontSize": "{fontSizes.500}",
+          "fontSize": "{fontSizes.400}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -419,7 +419,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.3}",
-          "fontSize": "{fontSizes.400}",
+          "fontSize": "{fontSizes.300}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -429,8 +429,8 @@
         "value": {
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
-          "lineHeight": "{lineHeights.3}",
-          "fontSize": "{fontSizes.300}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSizes.200}",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -645,7 +645,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.4}*1.5",
-          "fontSize": "{fontSizes.500}*1.5",
+          "fontSize": "{fontSizes.400} *1.5",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -656,7 +656,7 @@
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.3}*1.5",
-          "fontSize": "{fontSizes.400}*1.5",
+          "fontSize": "{fontSizes.300} *1.5",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
@@ -666,8 +666,8 @@
         "value": {
           "fontFamily": "{fontFamilies.Primary}",
           "fontWeight": "{fontWeights.500}",
-          "lineHeight": "{lineHeights.3}*1.5",
-          "fontSize": "{fontSizes.300}*1.5",
+          "lineHeight": "{lineHeights.2}*1.5",
+          "fontSize": "{fontSizes.200}*1.5",
           "letterSpacing": "{letterSpacing.0}",
           "textDecoration": "none"
         },
