@@ -4350,7 +4350,7 @@
         "cw-light": "enabled",
         "cw-primitives": "source"
       },
-      "group": "Mode"
+      "group": "Theme"
     },
     {
       "id": "02797f8c419020f42310a24111d99468309a9aa5",
@@ -4360,7 +4360,7 @@
         "cw-dark": "enabled",
         "cw-primitives": "source"
       },
-      "group": "Mode"
+      "group": "Theme"
     },
     {
       "id": "aa60734cab977187a32c9895abbe13c410deaa37",
@@ -4370,7 +4370,7 @@
         "cw-primitives": "source",
         "cw-core-largeScreen": "enabled"
       },
-      "group": "Channel"
+      "group": "Viewport"
     },
     {
       "id": "e37e24d46ffb716b50e80d6a91cbe579cf05e399",
@@ -4380,7 +4380,7 @@
         "cw-primitives": "source",
         "cw-core-smallScreen": "enabled"
       },
-      "group": "Channel"
+      "group": "Viewport"
     }
   ],
   "$metadata": {
