@@ -4337,7 +4337,8 @@
       "name": "CargoWise",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "cw-primitives": "enabled"
+        "cw-primitives": "source",
+        "cw-core-typography": "source"
       },
       "group": "Brand"
     },
@@ -4367,8 +4368,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "cw-primitives": "source",
-        "cw-core-largeScreen": "enabled",
-        "cw-core-typography": "enabled"
+        "cw-core-largeScreen": "enabled"
       },
       "group": "Channel"
     },
@@ -4378,8 +4378,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "cw-primitives": "source",
-        "cw-core-smallScreen": "enabled",
-        "cw-core-typography": "enabled"
+        "cw-core-smallScreen": "enabled"
       },
       "group": "Channel"
     }
