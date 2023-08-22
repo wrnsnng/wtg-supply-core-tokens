@@ -1,0 +1,122 @@
+{
+  "padding": {
+    "Null": {
+      "value": "{numbers.0}",
+      "type": "spacing"
+    },
+    "XS": {
+      "value": "{numbers.100}",
+      "type": "spacing"
+    },
+    "S": {
+      "value": "{numbers.200}",
+      "type": "spacing"
+    },
+    "M": {
+      "value": "{numbers.300}",
+      "type": "spacing"
+    },
+    "L": {
+      "value": "{numbers.400}",
+      "type": "spacing"
+    },
+    "XL": {
+      "value": "{numbers.500}",
+      "type": "spacing"
+    },
+    "XXL": {
+      "value": "{numbers.700}",
+      "type": "spacing"
+    }
+  },
+  "spacing": {
+    "Null": {
+      "value": "{numbers.0}",
+      "type": "spacing"
+    },
+    "XS": {
+      "value": "{numbers.100}",
+      "type": "spacing"
+    },
+    "S": {
+      "value": "{numbers.200}",
+      "type": "spacing"
+    },
+    "M": {
+      "value": "{numbers.300}",
+      "type": "spacing"
+    },
+    "L": {
+      "value": "{numbers.400}",
+      "type": "spacing"
+    },
+    "XL": {
+      "value": "{numbers.500}",
+      "type": "spacing"
+    },
+    "XXL": {
+      "value": "{numbers.700}",
+      "type": "spacing"
+    }
+  },
+  "sizing": {
+    "Null": {
+      "value": "{numbers.0}",
+      "type": "spacing"
+    },
+    "XS": {
+      "value": "{numbers.300}",
+      "type": "spacing"
+    },
+    "S": {
+      "value": "{numbers.400}",
+      "type": "spacing"
+    },
+    "M": {
+      "value": "{numbers.500}",
+      "type": "spacing"
+    },
+    "L": {
+      "value": "{numbers.600}",
+      "type": "spacing"
+    },
+    "XL": {
+      "value": "{numbers.700}",
+      "type": "spacing"
+    },
+    "XXL": {
+      "value": "{numbers.900}",
+      "type": "spacing"
+    }
+  },
+  "radius": {
+    "Null": {
+      "value": "{numbers.0}",
+      "type": "borderRadius"
+    },
+    "XS": {
+      "value": "{numbers.100}",
+      "type": "borderRadius"
+    },
+    "S": {
+      "value": "{numbers.200}",
+      "type": "borderRadius"
+    },
+    "M": {
+      "value": "{numbers.300}",
+      "type": "borderRadius"
+    },
+    "L": {
+      "value": "{numbers.400}",
+      "type": "borderRadius"
+    },
+    "XL": {
+      "value": "{numbers.500}",
+      "type": "borderRadius"
+    },
+    "XXL": {
+      "value": "{numbers.700}",
+      "type": "borderRadius"
+    }
+  }
+}

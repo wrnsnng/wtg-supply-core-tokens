@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "cw-primitives",
+    "cw-light",
+    "cw-dark",
+    "cw-core-largeScreen",
+    "cw-core-smallScreen",
+    "cw-core-typography"
+  ]
+}
