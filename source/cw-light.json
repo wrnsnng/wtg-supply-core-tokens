@@ -490,11 +490,11 @@
       "type": "color"
     },
     "bg-active": {
-      "value": "{brand.800}",
+      "value": "{brand.600}",
       "type": "color"
     },
     "bg-disabled": {
-      "value": "{brand.200}",
+      "value": "{brand.600}",
       "type": "color"
     },
     "bg-weak-default": {
@@ -526,7 +526,7 @@
       "type": "color"
     },
     "txt-disabled": {
-      "value": "{brand.500}",
+      "value": "{brand.400}",
       "type": "color"
     },
     "txt-weak-default": {
@@ -590,7 +590,7 @@
       "type": "color"
     },
     "icon-disabled": {
-      "value": "{brand.500}",
+      "value": "{brand.400}",
       "type": "color"
     },
     "icon-weak-default": {
@@ -684,7 +684,7 @@
       }
     },
     "border-weak-active": {
-      "value": "{brand.800}",
+      "value": "{brand.500}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
