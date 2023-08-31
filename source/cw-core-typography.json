@@ -43,7 +43,7 @@
   "Title-Large": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
-      "fontWeight": "{fontWeights.700}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.500}",
       "fontSize": "{fontSize.500}",
       "letterSpacing": "{letterSpacing.0}",
@@ -57,7 +57,7 @@
   "Title": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
-      "fontWeight": "{fontWeights.700}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.400}",
       "fontSize": "{fontSize.400}",
       "letterSpacing": "{letterSpacing.0}",
@@ -71,7 +71,7 @@
   "Title-Small": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
-      "fontWeight": "{fontWeights.500}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
@@ -99,7 +99,7 @@
   "Body-Strong": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
-      "fontWeight": "{fontWeights.700}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
@@ -127,7 +127,7 @@
   "Button": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
-      "fontWeight": "{fontWeights.700}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
@@ -155,7 +155,7 @@
   "Numeric-Strong": {
     "value": {
       "fontFamily": "{fontFamilies.mono}",
-      "fontWeight": "{fontWeights.700}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
@@ -197,7 +197,7 @@
   "Label-Strong": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
-      "fontWeight": "{fontWeights.700}",
+      "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.200}",
       "fontSize": "{fontSize.200}",
       "letterSpacing": "{letterSpacing.0}",

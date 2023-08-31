@@ -423,7 +423,7 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "SF Pro",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "mono": {
@@ -472,6 +472,10 @@
     },
     "500": {
       "value": "Medium",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "Semi Bold",
       "type": "fontWeights"
     },
     "700": {

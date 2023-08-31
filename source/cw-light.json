@@ -26,11 +26,11 @@
       "type": "color"
     },
     "bg-hover": {
-      "value": "{neutral.600}",
+      "value": "{neutral.300}",
       "type": "color"
     },
     "bg-active": {
-      "value": "{neutral.900}",
+      "value": "{neutral.400}",
       "type": "color"
     },
     "bg-disabled": {
