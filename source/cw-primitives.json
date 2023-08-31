@@ -425,10 +425,6 @@
     "primary": {
       "value": "Inter",
       "type": "fontFamilies"
-    },
-    "mono": {
-      "value": "SF Mono",
-      "type": "fontFamilies"
     }
   },
   "lineHeights": {

@@ -224,7 +224,7 @@
       }
     },
     "border-weak-active": {
-      "value": "{neutral-dark.800}",
+      "value": "{neutral-dark.600}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -1144,7 +1144,7 @@
       }
     },
     "border-weak-active": {
-      "value": "{success.800}",
+      "value": "{success.500}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -1604,7 +1604,7 @@
       }
     },
     "border-weak-active": {
-      "value": "{error.600}",
+      "value": "{error.500}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
