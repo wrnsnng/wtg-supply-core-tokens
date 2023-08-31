@@ -140,7 +140,7 @@
   },
   "Numeric": {
     "value": {
-      "fontFamily": "{fontFamilies.mono}",
+      "fontFamily": "{fontFamilies.primary}",
       "fontWeight": "{fontWeights.400}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
@@ -154,7 +154,7 @@
   },
   "Numeric-Strong": {
     "value": {
-      "fontFamily": "{fontFamilies.mono}",
+      "fontFamily": "{fontFamilies.primary}",
       "fontWeight": "{fontWeights.600}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
@@ -168,7 +168,7 @@
   },
   "Numeric-Link": {
     "value": {
-      "fontFamily": "{fontFamilies.mono}",
+      "fontFamily": "{fontFamilies.primary}",
       "fontWeight": "{fontWeights.400}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
@@ -224,7 +224,7 @@
   },
   "Placeholder-Numeric": {
     "value": {
-      "fontFamily": "{fontFamilies.mono}",
+      "fontFamily": "{fontFamilies.primary}",
       "fontWeight": "{fontWeights.400}",
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
@@ -252,7 +252,7 @@
   },
   "Microcopy-Numeric": {
     "value": {
-      "fontFamily": "{fontFamilies.mono}",
+      "fontFamily": "{fontFamilies.primary}",
       "fontWeight": "{fontWeights.400}",
       "lineHeight": "{lineHeights.100}",
       "fontSize": "{fontSize.100}",
