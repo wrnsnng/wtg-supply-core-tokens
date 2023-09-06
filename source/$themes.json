@@ -903,5 +903,17 @@
       "radius.XL": "b1a34b2aff641f01a381e0e74c7a228d4f402e47",
       "radius.XXL": "8253d24f7871d6f496da60364e742d98c3dadc99"
     }
+  },
+  {
+    "id": "4b332f4d524d3b14fb3d0c22376f420cc318b697",
+    "name": "Wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "cw-primitives": "source",
+      "cw-core-largeScreen": "enabled",
+      "cw-core-typography": "enabled",
+      "cw-wireframe": "enabled"
+    },
+    "group": "Mode"
   }
 ]

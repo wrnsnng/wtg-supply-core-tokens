@@ -3,6 +3,7 @@
     "cw-primitives",
     "cw-light",
     "cw-dark",
+    "cw-wireframe",
     "cw-core-largeScreen",
     "cw-core-smallScreen",
     "cw-core-typography"
