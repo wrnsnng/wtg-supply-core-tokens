@@ -1,7 +1,7 @@
 {
   "neutral": {
     "canvas-default": {
-      "value": "{neutral.100}",
+      "value": "{neutral.0}",
       "type": "color"
     },
     "bg-default": {
@@ -198,17 +198,9 @@
       "type": "color"
     },
     "border-weak-default": {
-      "value": "{neutral.700}",
+      "value": "{neutral.900}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.3",
-            "space": "lch"
-          }
-        }
-      }
+      "$extensions": {}
     },
     "border-weak-hover": {
       "value": "{neutral.600}",
@@ -252,7 +244,7 @@
   },
   "primary": {
     "bg-default": {
-      "value": "{neutral.0}",
+      "value": "{neutral.900}",
       "type": "color"
     },
     "bg-hover": {
@@ -428,7 +420,7 @@
       "type": "color"
     },
     "border-weak-default": {
-      "value": "{neutral.700}",
+      "value": "{neutral.900}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -482,7 +474,7 @@
   },
   "brand": {
     "bg-default": {
-      "value": "{neutral.400}",
+      "value": "{neutral.900}",
       "type": "color"
     },
     "bg-hover": {
