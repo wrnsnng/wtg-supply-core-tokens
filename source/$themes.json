@@ -910,13 +910,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-primitives": "source",
-      "cw-core-largeScreen": "enabled",
-      "cw-core-typography": "enabled",
       "cw-wireframe": "enabled"
     },
-    "group": "Mode",
     "$figmaCollectionId": "VariableCollectionId:1:81",
-    "$figmaModeId": "2064:0",
+    "$figmaModeId": "2064:1",
     "$figmaVariableReferences": {
       "neutral.canvas-default": "d5dda8380bda9991da1938910b807a803f603c48",
       "neutral.bg-default": "640b5b7384af871a7227c758635948b680941c0b",
@@ -1256,35 +1253,8 @@
       "error.border-weak-default": "71072face991f1f2b7feff80fc92bc50a3733b79",
       "error.border-weak-hover": "23a04295d3758e73000021bb2d8bea1ec694c9a3",
       "error.border-weak-active": "d2433bc06f1a314d35fc0d5018af2729783dd67f",
-      "error.border-weak-disabled": "a9f42265bb3baf55ad79dbd164eba618bcb852c7",
-      "padding.Null": "314924390d557d7844e8716234a0253fd5032c21",
-      "padding.XS": "05a569bee5796272bb247a2f73e4434fced4a8af",
-      "padding.S": "404352234caf384ac6a6433b5cb0918b9845161f",
-      "padding.M": "9c7b3748228079a18d627774911bcb4a8a88fcc1",
-      "padding.L": "2f3cc954cb1abbc017bd2fb2af34290bd9edd0db",
-      "padding.XL": "45c2631f9c79b85d375b57f1e8ce423fc0b0cac5",
-      "padding.XXL": "8671324d7d2e19f2251a376eb1b6dac35470d32b",
-      "spacing.Null": "d7c6b6f522e354846ccd4fef3c10a9c9ba242ed3",
-      "spacing.XS": "66d2394c4deb6748d22424da964a7d8d7f0c9e7c",
-      "spacing.S": "4e56b7d1f6c69d65f0ec801fd79568edf29eccd2",
-      "spacing.M": "2008e46198a6705fe2789d9b5bbdb25c2b98e2ce",
-      "spacing.L": "7be00a3b3e51ed4280b06dde43ddbbdcb17c6d77",
-      "spacing.XL": "2d22326b34b51ce985767b9bd012fc0cdce1173f",
-      "spacing.XXL": "00e7a309baf31a3591dd8ff588f2d33b54fa0308",
-      "sizing.Null": "8c5fc7cc85ae8dd6185a90884176b19aff6eeaec",
-      "sizing.XS": "8390cbc4ae8c547bf0486095f58e83864fe50027",
-      "sizing.S": "1ed5b788faa445fa5ad80414facb3af7fcb03de2",
-      "sizing.M": "f9b3b0803818a25bbc434e5f5130f5eff2735657",
-      "sizing.L": "b83f44569dffaddec7084767e42a627f22789b57",
-      "sizing.XL": "10c1e5c1a68808461628094ffa346f962b2cb840",
-      "sizing.XXL": "50d5fbf0a0285d95afc600915e2d5c8ac52bd915",
-      "radius.Null": "640a0a485633affbb3ee8b64de3350b938a1177a",
-      "radius.XS": "95fabd04436b445ed03a218417d7c771514f1834",
-      "radius.S": "65942b76ddcfd626c9a803a36753e34f8129e585",
-      "radius.M": "19eea9afc58cf9ed763b621bae03cbe0a288d00c",
-      "radius.L": "0e4f40010d06a25d64629424f447aff421302a12",
-      "radius.XL": "277fae34a7f088b4dafc4181a383898b7ffc5734",
-      "radius.XXL": "f4ee42faff0d86424c71ba8c052d8d390e1e006b"
-    }
+      "error.border-weak-disabled": "a9f42265bb3baf55ad79dbd164eba618bcb852c7"
+    },
+    "group": "Mode"
   }
 ]
