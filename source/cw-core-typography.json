@@ -89,7 +89,7 @@
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
-      "paragraphSpacing": "{paragraphSpacing.0}",
+      "paragraphSpacing": "{paragraphSpacing.100}",
       "paragraphIndent": "",
       "textCase": "{textCase.none}",
       "textDecoration": "{textDecoration.none}"
@@ -103,7 +103,7 @@
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
-      "paragraphSpacing": "{paragraphSpacing.0}",
+      "paragraphSpacing": "{paragraphSpacing.100}",
       "paragraphIndent": "",
       "textCase": "{textCase.none}",
       "textDecoration": "{textDecoration.none}"
@@ -117,7 +117,7 @@
       "lineHeight": "{lineHeights.300}",
       "fontSize": "{fontSize.300}",
       "letterSpacing": "{letterSpacing.0}",
-      "paragraphSpacing": "{paragraphSpacing.0}",
+      "paragraphSpacing": "{paragraphSpacing.100}",
       "paragraphIndent": "",
       "textCase": "{textCase.none}",
       "textDecoration": "{textDecoration.underline}"

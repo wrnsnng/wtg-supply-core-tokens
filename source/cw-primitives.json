@@ -523,6 +523,10 @@
     "0": {
       "value": "0",
       "type": "paragraphSpacing"
+    },
+    "100": {
+      "value": "{fontSize.300}",
+      "type": "paragraphSpacing"
     }
   },
   "textCase": {
