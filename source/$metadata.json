@@ -6,6 +6,7 @@
     "cw-wireframe",
     "cw-core-largeScreen",
     "cw-core-smallScreen",
-    "cw-core-typography"
+    "cw-core-typography",
+    "cw-elevation"
   ]
 }

@@ -474,7 +474,7 @@
   },
   "brand": {
     "bg-default": {
-      "value": "{neutral.900}",
+      "value": "{brand.600}",
       "type": "color"
     },
     "bg-hover": {
