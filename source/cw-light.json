@@ -278,10 +278,6 @@
       "value": "{primary.0}",
       "type": "color"
     },
-    "txt-inv-disabled": {
-      "value": "{primary.500}",
-      "type": "color"
-    },
     "txt-weak-inv-default": {
       "value": "{primary.300}",
       "type": "color"
