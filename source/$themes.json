@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-primitives": "enabled",
-      "cw-core-typography": "enabled",
-      "cw-elevation": "disabled"
+      "cw-core-typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:9",
     "$figmaModeId": "1:0",
@@ -121,8 +120,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-light": "enabled",
-      "cw-primitives": "source",
-      "cw-elevation": "disabled"
+      "cw-primitives": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1:81",
     "$figmaModeId": "9:6",
@@ -475,8 +473,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-dark": "enabled",
-      "cw-primitives": "source",
-      "cw-elevation": "disabled"
+      "cw-primitives": "source"
     },
     "group": "Mode",
     "$figmaCollectionId": "VariableCollectionId:1:81",
@@ -829,8 +826,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-primitives": "source",
-      "cw-core-largeScreen": "enabled",
-      "cw-elevation": "disabled"
+      "cw-core-largeScreen": "enabled"
     },
     "group": "Channel",
     "$figmaCollectionId": "VariableCollectionId:68:535",
@@ -872,8 +868,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-primitives": "source",
-      "cw-core-smallScreen": "enabled",
-      "cw-elevation": "disabled"
+      "cw-core-smallScreen": "enabled"
     },
     "group": "Channel",
     "$figmaCollectionId": "VariableCollectionId:68:535",
@@ -915,8 +910,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "cw-primitives": "source",
-      "cw-wireframe": "enabled",
-      "cw-elevation": "disabled"
+      "cw-wireframe": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:81",
     "$figmaModeId": "2064:1",

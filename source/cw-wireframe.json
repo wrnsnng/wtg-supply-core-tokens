@@ -199,8 +199,7 @@
     },
     "border-weak-default": {
       "value": "{neutral.900}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "border-weak-hover": {
       "value": "{neutral.600}",
