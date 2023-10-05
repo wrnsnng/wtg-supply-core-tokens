@@ -394,179 +394,6 @@
       }
     }
   },
-  "brand": {
-    "bg-default": {
-      "value": "{brand.700}",
-      "type": "color"
-    },
-    "bg-hover": {
-      "value": "{brand.800}",
-      "type": "color"
-    },
-    "bg-active": {
-      "value": "{brand.900}",
-      "type": "color"
-    },
-    "bg-weak-default": {
-      "value": "{brand.100}",
-      "type": "color"
-    },
-    "bg-weak-hover": {
-      "value": "{brand.200}",
-      "type": "color"
-    },
-    "bg-weak-active": {
-      "value": "{brand.300}",
-      "type": "color"
-    },
-    "txt-default": {
-      "value": "{brand.800}",
-      "type": "color"
-    },
-    "txt-hover": {
-      "value": "{brand.700}",
-      "type": "color"
-    },
-    "txt-active": {
-      "value": "{brand.1000}",
-      "type": "color"
-    },
-    "txt-weak-default": {
-      "value": "{brand.600}",
-      "type": "color"
-    },
-    "txt-weak-hover": {
-      "value": "{brand.700}",
-      "type": "color"
-    },
-    "txt-weak-active": {
-      "value": "{brand.800}",
-      "type": "color"
-    },
-    "txt-inv-default": {
-      "value": "{brand.100}",
-      "type": "color"
-    },
-    "txt-inv-hover": {
-      "value": "{brand.200}",
-      "type": "color"
-    },
-    "txt-inv-active": {
-      "value": "{brand.0}",
-      "type": "color"
-    },
-    "txt-weak-inv-default": {
-      "value": "{brand.300}",
-      "type": "color"
-    },
-    "txt-weak-inv-hover": {
-      "value": "{brand.200}",
-      "type": "color"
-    },
-    "txt-weak-inv-active": {
-      "value": "{brand.100}",
-      "type": "color"
-    },
-    "icon-default": {
-      "value": "{brand.800}",
-      "type": "color"
-    },
-    "icon-hover": {
-      "value": "{brand.900}",
-      "type": "color"
-    },
-    "icon-active": {
-      "value": "{brand.1000}",
-      "type": "color"
-    },
-    "icon-weak-default": {
-      "value": "{brand.600}",
-      "type": "color"
-    },
-    "icon-weak-hover": {
-      "value": "{brand.700}",
-      "type": "color"
-    },
-    "icon-weak-active": {
-      "value": "{brand.800}",
-      "type": "color"
-    },
-    "icon-inv-default": {
-      "value": "{brand.100}",
-      "type": "color"
-    },
-    "icon-inv-hover": {
-      "value": "{brand.200}",
-      "type": "color"
-    },
-    "icon-inv-active": {
-      "value": "{brand.0}",
-      "type": "color"
-    },
-    "icon-weak-inv-default": {
-      "value": "{brand.300}",
-      "type": "color"
-    },
-    "icon-weak-inv-hover": {
-      "value": "{brand.200}",
-      "type": "color"
-    },
-    "icon-weak-inv-active": {
-      "value": "{brand.100}",
-      "type": "color"
-    },
-    "border-default": {
-      "value": "{brand.800}",
-      "type": "color"
-    },
-    "border-hover": {
-      "value": "{brand.900}",
-      "type": "color"
-    },
-    "border-active": {
-      "value": "{brand.1000}",
-      "type": "color"
-    },
-    "border-weak-default": {
-      "value": "{brand.600}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.5",
-            "space": "lch"
-          }
-        }
-      }
-    },
-    "border-weak-hover": {
-      "value": "{brand.700}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.5",
-            "space": "lch"
-          }
-        }
-      }
-    },
-    "border-weak-active": {
-      "value": "{brand.800}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.5",
-            "space": "lch"
-          }
-        }
-      }
-    }
-  },
   "info": {
     "bg-default": {
       "value": "{info.700}",
@@ -1247,6 +1074,183 @@
     },
     "border-weak-active": {
       "value": "{error.800}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.5",
+            "space": "lch"
+          }
+        }
+      }
+    }
+  },
+  "brand": {
+    "bg-default": {
+      "value": "{brand.700}",
+      "type": "color"
+    },
+    "bg-hover": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "bg-active": {
+      "value": "{brand.900}",
+      "type": "color"
+    },
+    "bg-weak-default": {
+      "value": "{brand.100}",
+      "type": "color"
+    },
+    "bg-weak-hover": {
+      "value": "{brand.200}",
+      "type": "color"
+    },
+    "bg-weak-active": {
+      "value": "{brand.300}",
+      "type": "color"
+    },
+    "txt-default": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "txt-hover": {
+      "value": "{brand.900}",
+      "type": "color"
+    },
+    "txt-active": {
+      "value": "{brand.1000}",
+      "type": "color"
+    },
+    "txt-weak-default": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "txt-weak-hover": {
+      "value": "{brand.700}",
+      "type": "color"
+    },
+    "txt-weak-active": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "txt-inv-default": {
+      "value": "{brand.100}",
+      "type": "color"
+    },
+    "txt-inv-hover": {
+      "value": "{brand.200}",
+      "type": "color"
+    },
+    "txt-inv-active": {
+      "value": "{brand.0}",
+      "type": "color"
+    },
+    "txt-inv-disabled": {
+      "value": "{brand.500}",
+      "type": "color"
+    },
+    "txt-weak-inv-default": {
+      "value": "{brand.300}",
+      "type": "color"
+    },
+    "txt-weak-inv-hover": {
+      "value": "{brand.200}",
+      "type": "color"
+    },
+    "txt-weak-inv-active": {
+      "value": "{brand.100}",
+      "type": "color"
+    },
+    "icon-default": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "icon-hover": {
+      "value": "{brand.900}",
+      "type": "color"
+    },
+    "icon-active": {
+      "value": "{brand.1000}",
+      "type": "color"
+    },
+    "icon-weak-default": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "icon-weak-hover": {
+      "value": "{brand.700}",
+      "type": "color"
+    },
+    "icon-weak-active": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "icon-inv-default": {
+      "value": "{brand.100}",
+      "type": "color"
+    },
+    "icon-inv-hover": {
+      "value": "{brand.200}",
+      "type": "color"
+    },
+    "icon-inv-active": {
+      "value": "{brand.0}",
+      "type": "color"
+    },
+    "icon-weak-inv-default": {
+      "value": "{brand.300}",
+      "type": "color"
+    },
+    "icon-weak-inv-hover": {
+      "value": "{brand.200}",
+      "type": "color"
+    },
+    "icon-weak-inv-active": {
+      "value": "{brand.100}",
+      "type": "color"
+    },
+    "border-default": {
+      "value": "{brand.800}",
+      "type": "color"
+    },
+    "border-hover": {
+      "value": "{brand.900}",
+      "type": "color"
+    },
+    "border-active": {
+      "value": "{brand.1000}",
+      "type": "color"
+    },
+    "border-weak-default": {
+      "value": "{brand.600}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.5",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "border-weak-hover": {
+      "value": "{brand.700}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.5",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "border-weak-active": {
+      "value": "{brand.800}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
