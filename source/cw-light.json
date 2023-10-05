@@ -1143,10 +1143,6 @@
       "value": "{brand.0}",
       "type": "color"
     },
-    "txt-inv-disabled": {
-      "value": "{brand.500}",
-      "type": "color"
-    },
     "txt-weak-inv-default": {
       "value": "{brand.300}",
       "type": "color"
