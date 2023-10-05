@@ -1100,11 +1100,11 @@
       "type": "color"
     },
     "bg-weak-hover": {
-      "value": "{brand.200}",
+      "value": "{brand.400}",
       "type": "color"
     },
     "bg-weak-active": {
-      "value": "{brand.300}",
+      "value": "{brand.600}",
       "type": "color"
     },
     "txt-default": {
