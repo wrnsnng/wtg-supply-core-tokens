@@ -987,11 +987,11 @@
       "type": "color"
     },
     "icon-hover": {
-      "value": "{error.700}",
+      "value": "{error.900}",
       "type": "color"
     },
     "icon-active": {
-      "value": "{error.900}",
+      "value": "{error.1000}",
       "type": "color"
     },
     "icon-weak-default": {
