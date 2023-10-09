@@ -106,15 +106,15 @@
       "type": "color"
     },
     "icon-default": {
-      "value": "{neutral.800}",
+      "value": "{neutral.700}",
       "type": "color"
     },
     "icon-hover": {
-      "value": "{neutral.900}",
+      "value": "{neutral.800}",
       "type": "color"
     },
     "icon-active": {
-      "value": "{neutral.1000}",
+      "value": "{neutral.900}",
       "type": "color"
     },
     "icon-disabled": {
