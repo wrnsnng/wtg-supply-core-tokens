@@ -642,15 +642,15 @@
   },
   "warning": {
     "bg-default": {
-      "value": "{light/warning.400}",
+      "value": "{light/warning.300}",
       "type": "color"
     },
     "bg-hover": {
-      "value": "{light/warning.500}",
+      "value": "{light/warning.400}",
       "type": "color"
     },
     "bg-active": {
-      "value": "{light/warning.600}",
+      "value": "{light/warning.500}",
       "type": "color"
     },
     "bg-weak-default": {
@@ -714,19 +714,19 @@
       "type": "color"
     },
     "border-default": {
-      "value": "{light/warning.400}",
-      "type": "color"
-    },
-    "border-hover": {
-      "value": "{light/warning.500}",
-      "type": "color"
-    },
-    "border-active": {
       "value": "{light/warning.600}",
       "type": "color"
     },
+    "border-hover": {
+      "value": "{light/warning.700}",
+      "type": "color"
+    },
+    "border-active": {
+      "value": "{light/warning.800}",
+      "type": "color"
+    },
     "border-weak-default": {
-      "value": "{light/warning.400}",
+      "value": "{light/warning.600}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -739,7 +739,7 @@
       }
     },
     "border-weak-hover": {
-      "value": "{light/warning.500}",
+      "value": "{light/warning.700}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -752,7 +752,7 @@
       }
     },
     "border-weak-active": {
-      "value": "{light/warning.600}",
+      "value": "{light/warning.800}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
