@@ -54,6 +54,20 @@
     },
     "type": "typography"
   },
+  "Title-Large-Numeric": {
+    "value": {
+      "fontFamily": "{fontFamilies.primary}",
+      "fontWeight": "{fontWeights.600}",
+      "lineHeight": "{lineHeights.500}",
+      "fontSize": "{fontSize.500}",
+      "letterSpacing": "{letterSpacing.0}",
+      "paragraphSpacing": "{paragraphSpacing.0}",
+      "paragraphIndent": "",
+      "textCase": "{textCase.none}",
+      "textDecoration": "{textDecoration.none}"
+    },
+    "type": "typography"
+  },
   "Title": {
     "value": {
       "fontFamily": "{fontFamilies.primary}",
